@@ -29,9 +29,13 @@
 
 <h3> Language:</h3>
 
- ![Python](https://img.icons8.com/color/48/000000/python.png)
+![Python](https://img.icons8.com/color/48/000000/python.png)
  ![R](https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/48/000000/external-r-project-a-free-software-environment-for-statistical-computing-and-graphics-logo-shadow-tal-revivo.png)
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png)
+![CSS3](https://img.icons8.com/color/48/000000/css3.png)
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png)
 ![MySQL](https://img.icons8.com/fluent/50/000000/mysql-logo.png)
+
 
 <h3> Libraries & Framework :</h3>
 
